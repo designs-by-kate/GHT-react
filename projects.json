@@ -1,0 +1,235 @@
+[
+    {
+        "id": "1",
+        "name": "project 1",
+        "position": "Company Director / Freelance Engineer - Site Setting-out",
+        "company": "GH Turtle Services Ltd",
+        "duration": "Mar 2017 - Present · 7 yrs 2 mos",
+        "location": "Hampshire, UK · On-site",
+        "description": "Engineering & Site Setting Out freelance services by using total stations and other engineering equipment, Site data collection, Quality checks and work progress inspections, making as-built drawings in DWG or other formats, RFI's, NCR's and other site rapports preparation for project file record and official proceedings, Engineering consultation and advisory, Short & long term site staff replacement services.",
+        "projects": [
+            "Korendon Construction UK/ CBRE - Quinetic Farnborough Renewal Project & National Science Museum London Refurbishment",
+            "Dyer & Butler / Aspire Defence - Perham Down Site",
+            "Dawnus Construction Ltd - Extension & Refurbishment of Kings Copse School, New Built of Ludgershall Primary School",
+            "Chasetown Civil Engineering Ltd / Lovell Partnerships Ltd - Ludgershall - MOD Army relocation project - part of ABP programme in Salisbury plain",
+            "bmJV (Bamnuttall & Morgan Sindall Joint Venture) for Highways England - M27 Smart Motorway Project J4-J11",
+            "Volker Stevin for Costal Partners - Costal Defence Scheme - SF1 - Southsea (Portsmouth)",
+            "Taylor Woodrow (Vinci Construction) for True Aliance - FAST Scheme - VB-0017 - Fawley Refinery ESSO PETROLEUM"
+        ], 
+         "images": [
+            {
+            "src": "./images/proImg/pro1img1.png",
+            "title": "Project 1",
+            "description": "Description for Project 1"
+            },
+            {
+            "src": "./images/proImg/pro1img2.png",
+            "title": "Project 2",
+            "description": "Description for Project 2"
+            },
+            {
+            "src": "./images/proImg/pro1img3.png",
+            "title": "Project 3",
+            "description": "Description for Project 3"
+            },
+            {
+            "src": "./images/proImg/pro1img4.png",
+            "title": "Project 4",
+            "description": "Description for Project 4"
+            },
+            {
+            "src": "./images/proImg/pro1img5.png",
+            "title": "Project 5",
+            "description": "Description for Project 5"
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "name": "project 2",
+        "position": "Main Site Supervisor / Site Engineer - RC Structure",
+        "company": "AZF Contractors ApS",
+        "duration": "Sep 2016 - Feb 2017 · 6 mos",
+        "location": "Kopenhaga, Dania",
+        "description": "Cityringen Marmorkirken Metro Station – Deepest station on Cityringen Kobenhavn (38m – 7 levels), Enghave Plads Metro Station: supervision of workers, coordination of mechanical equipment, concrete construction works, making time schedules, checking work progress, reporting, contract negotiations, safety control, cooperation with site management, surveyors, architects, manpower planning, cost calculations.",
+        "projects": [],
+        "images": [
+            {
+            "src": "./images/proImg/pro2img1.png",
+            "title": "Project 1",
+            "description": "Description for Project 1"
+            },
+            {
+            "src": "./images/proImg/pro2img2.png",
+            "title": "Project 2",
+            "description": "Description for Project 2"
+            },
+            {
+            "src": "./images/proImg/pro2img3.png",
+            "title": "Project 3",
+            "description": "Description for Project 3"
+            },
+            {
+            "src": "./images/proImg/pro2img4.png",
+            "title": "Project 4",
+            "description": "Description for Project 4"
+            },
+            {
+            "src": "./images/proImg/pro2img5.png",
+            "title": "Project 5",
+            "description": "Description for Project 5"
+            },
+            {
+            "src": "./images/proImg/pro2img6.png",
+            "title": "Project 6",
+            "description": "Description for Project 6"
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "name": "project 3",
+        "position": "Main Site Supervisor / Site Engineer - Foundations, RC Frame, Steel and Precast Erection",
+        "company": "GH Turtle Services Ltd",
+        "duration": "Mar 2017 - Present · 7 yrs 2 mos",
+        "location": "Hampshire, UK · On-site",
+        "description": "Engineering & Site Setting Out freelance services by using total stations and other engineering equipment, Site data collection, Quality checks and work progress inspections, making as-built drawings in DWG or other formats, RFI's, NCR's and other site rapports preparation for project file record and official proceedings, Engineering consultation and advisory, Short & long term site staff replacement services.",
+        "projects": [],
+        "images": [
+            {
+                "src": "./images/proImg/pro3img1.png",
+                "title": "Project 1",
+                "description": "Description for Project 1"
+                },
+                {
+                "src": "./images/proImg/pro3img2.png",
+                "title": "Project 2",
+                "description": "Description for Project 2"
+                },
+                {
+                "src": "./images/proImg/pro3img3.png",
+                "title": "Project 3",
+                "description": "Description for Project 3"
+                },
+                {
+                "src": "./images/proImg/pro3img4.png",
+                "title": "Project 4",
+                "description": "Description for Project 4"
+                },
+                {
+                "src": "./images/proImg/pro3img5.png",
+                "title": "Project 5",
+                "description": "Description for Project 5"
+                }
+        ]
+    },
+    {
+        "id": "4",
+        "name": "project 4",
+        "position": "Precast Erection Manager / Pekabex Scandinavia Sites Coordinator - Precast Erection and RC Slabs",
+        "company": "Pekabex",
+        "duration": "Sep 2012 - Nov 2015 · 3 yrs 3 mos",
+        "location": "Poznań, woj. wielkopolskie, Polska",
+        "description": "Precast erection manager / Pekabex coordinator of assembly in Scandinavian Area. Involve in 17 projects in which completely driven 10: supervision of subcontractors, coordination of mechanical equipment, making time schedules, safety control, cooperation with management, architects, designers, cost calculations, handover documentation.",
+        "projects": [],
+        "images": [
+            {
+            "src": "./images/proImg/pro1img1.png",
+            "title": "Project 1",
+            "description": "Description for Project 1"
+            },
+            {
+            "src": "./images/proImg/pro1img2.png",
+            "title": "Project 2",
+            "description": "Description for Project 2"
+            },
+            {
+            "src": "./images/proImg/pro1img3.png",
+            "title": "Project 3",
+            "description": "Description for Project 3"
+            }
+        ]
+    },
+    {
+        "id": "5",
+        "name": "project 5",
+        "position": "Site Engineer - Viaducts & Highway Bridges",
+        "company": "PUT INTERCOR Sp. z o. o",
+        "duration": "Nov 2010 - Aug 2012 · 1 yr 10 mos",
+        "location": "Zawiercie",
+        "description": "Site Engineer: West Poznan Ring – S11 (road viaducts – W18 – W28), LCS Ciechanów – E65 (railway bridges km 106 – 136 and pedestrian tunnel under railway station): supervision of subcontractors, coordination works, safety control, cooperation with site inspectors, architects, designers, site costs control.",
+        "projects": [],
+        "images": [
+            {
+            "src": "./images/proImg/pro1img1.png",
+            "title": "Project 1",
+            "description": "Description for Project 1"
+            },
+            {
+            "src": "./images/proImg/pro1img2.png",
+            "title": "Project 2",
+            "description": "Description for Project 2"
+            },
+            {
+            "src": "./images/proImg/pro1img3.png",
+            "title": "Project 3",
+            "description": "Description for Project 3"
+            }
+        ]
+    },
+    {
+        "id": "6",
+        "name": "project 6",
+        "position": "Building Infrastructure Specialist / Quality Engineer - Steel and Precast Structure, RC Foundations",
+        "company": "T-Mobile",
+        "duration": "Nov 2008 - Sep 2010 · 1 yr 11 mos",
+        "location": "Poznań, woj. wielkopolskie, Polska",
+        "description": "Supervision of telecommunication base station projects in the name of investor. Work region  Poznań and north-western Poland: supervision of building process, subcontractors, project documentation, contracts, safety control, cooperation with architects, designers, invoice checking.",
+        "projects": [],
+        "images": [
+            {
+            "src": "./images/proImg/pro1img1.png",
+            "title": "Project 1",
+            "description": "Description for Project 1"
+            },
+            {
+            "src": "./images/proImg/pro1img2.png",
+            "title": "Project 2",
+            "description": "Description for Project 2"
+            },
+            {
+            "src": "./images/proImg/pro1img3.png",
+            "title": "Project 3",
+            "description": "Description for Project 3"
+            }
+        ]
+    },
+    {
+        "id": "7",
+        "name": "project 7",
+        "position": "Site Engineer - Site Setting-out, Finishing works, RC slabs & Steel structure Erection",
+        "company": "Danninger Ltd (Zoe Group)",
+        "duration": "May 2007 - Jul 2008 · 1 yr 3 mos",
+        "location": "Irlandia, Dublin",
+        "description": "Site Engineer on Tallaght New Town Centre Phase II and Sheriff St. sites: setting out position of structural elements, transferring levels, supervision of construction works, surveys, orders, documentation preparation, managing workers, cooperation with architects, designers.",
+        "projects": [],
+        "images": [
+            {
+            "src": "./images/proImg/pro1img1.png",
+            "title": "Project 1",
+            "description": "Description for Project 1"
+            },
+            {
+            "src": "./images/proImg/pro1img2.png",
+            "title": "Project 2",
+            "description": "Description for Project 2"
+            },
+            {
+            "src": "./images/proImg/pro1img3.png",
+            "title": "Project 3",
+            "description": "Description for Project 3"
+            }
+        ]
+    }
+  ]
+  
